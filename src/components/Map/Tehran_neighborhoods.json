@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "آرارات,آفتاب",
+      "slug": "ararat,aftab",
+      "geometry": { "cordinates": [51.400507, 32.768046] }
+    },
+    {
+      "id": 2,
+      "name": "آفریقا,آرامش",
+      "slug": "africa,aramesh",
+      "geometry": { "cordinates": [51.421818, 35.77704] }
+    }
+  ]
+}
